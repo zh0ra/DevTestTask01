@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Main-Class: org.ozhorniak.devtesttask01.Main
+Created-By: Maven Integration for Eclipse
+
