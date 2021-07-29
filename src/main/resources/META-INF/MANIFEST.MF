@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: org.ozhorniak.devtesttask03.Main
+Main-Class: org.ozhorniak.devtesttask01.Main
