@@ -16,4 +16,4 @@ min: 1
 max: 20
 
 Solution:
-Use standard library of Arrays for sorting and combaining distinct elements in array.
+I used standard library of Arrays for sorting and combaining distinct elements in array.
